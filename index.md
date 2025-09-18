@@ -1,6 +1,6 @@
 1.
 -Border-radius
--Background(different from gradient border color)
+-Transparent border
 -Gradient border
 
 2.
